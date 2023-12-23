@@ -16,9 +16,6 @@ Closed
 ##  Contribution
 Not open for anymore contributions
 
-##  Authors & Acknowledgement
-Brad the trainer, TM, Josh Lim for making this avaliable 
-
 
 
 
