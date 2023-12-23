@@ -1,6 +1,3 @@
-## Name
-Themed webpage or portal with Materialize CSS
-
 ##  Description
 This is a few part project done with Materialize as part of a CSS Materialize course.
 
